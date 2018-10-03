@@ -1,2 +1,2 @@
-Collaboration With: Kate Cauley, Amber, Mark Sarah Aita, Qinyu Goh
+Collaboration With: Lavender Zhang, Kate Cauley, Amber, Mark Sarah Aita, Qinyu Goh
 
