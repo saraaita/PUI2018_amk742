@@ -7,3 +7,5 @@ The first step was to import CSV reader, which is to create a file into the Data
 Create a feature with the ratio of the number of buildings in BK vs. Man and find out in which LandUse class Manhattan has more buildings than BK using a defined function and the .apply() methodMerge the dataframes related to Land Use.  
 ## Part 4 
 By using the pd.merge command. Followed by renaming the columns to identify BK and which MN, and set a land use values to a descriptive tag. 
+## Collaboration 
+	Kate Cauley, Manrique Vargas, Yushi Chen and Mark Bauer   
